@@ -63,7 +63,7 @@ body {
   height: 5vmin;
   min-width: 5vmin;
   border: 2px solid white;
-  margin: 2rem;
+  margin: 1.5rem;
   background-size: 65% 65%;
   background-repeat: no-repeat;
   background-position: center center;
@@ -104,7 +104,7 @@ body {
   flex-direction: column;
 }
 .homepage img {
-  max-width: 20rem;
+  max-width: 80vmin;
 }
 .homepage button {
   font-size: 2rem;
